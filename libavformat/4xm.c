@@ -24,7 +24,7 @@
  * 4X Technologies file demuxer
  * by Mike Melanson (melanson@pcisys.net)
  * for more information on the .4xm file format, visit:
- *   http://www.pcisys.net/~melanson/codecs/
+ *   http://www.pcisys.net/~melanson/codecs
  */
 
 #include "libavutil/intreadwrite.h"
